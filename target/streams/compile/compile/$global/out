@@ -1,0 +1,27 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/levantuan/workspace/Demo_Finagle/src/main/scala/com/twitter/finagle/example/echo/EchoExample.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/levantuan/workspace/Demo_Finagle/src/main/scala/com/twitter/finagle/example/echo/EchoExample.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mInitially invalidated: Set(/home/levantuan/workspace/Demo_Finagle/src/main/scala/com/twitter/finagle/example/echo/EchoExample.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/levantuan/workspace/Demo_Finagle/target/scala-2.8.1/classes...[0m
+[0m[[0mdebug[0m] [0mInterfacing (CompilerInterface) with Scala compiler version 2.8.1.final[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/home/levantuan/workspace/Demo_Finagle/target/scala-2.8.1/classes[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-6-openjdk-i386/jre/lib/alt-rt.jar:/usr/lib/jvm/java-6-openjdk-i386/jre/lib/resources.jar:/usr/lib/jvm/java-6-openjdk-i386/jre/lib/rt.jar:/usr/lib/jvm/java-6-openjdk-i386/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-6-openjdk-i386/jre/lib/jsse.jar:/usr/lib/jvm/java-6-openjdk-i386/jre/lib/jce.jar:/usr/lib/jvm/java-6-openjdk-i386/jre/lib/charsets.jar:/usr/lib/jvm/java-6-openjdk-i386/jre/lib/netx.jar:/usr/lib/jvm/java-6-openjdk-i386/jre/lib/plugin.jar:/usr/lib/jvm/java-6-openjdk-i386/jre/lib/rhino.jar:/usr/lib/jvm/java-6-openjdk-i386/jre/lib/modules/jdk.boot.jar:/usr/lib/jvm/java-6-openjdk-i386/jre/classes:/home/levantuan/.sbt/boot/scala-2.8.1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-cp[0m
+[0m[[0mdebug[0m] [0m	/home/levantuan/workspace/Demo_Finagle/target/scala-2.8.1/classes:/home/levantuan/.ivy2/cache/com.twitter/finagle-core/jars/finagle-core-1.9.4.jar:/home/levantuan/.ivy2/cache/com.twitter/util-hashing/jars/util-hashing-1.12.1.jar:/home/levantuan/.ivy2/cache/com.twitter/util-core/jars/util-core-1.12.1.jar:/home/levantuan/.ivy2/cache/org.jboss.netty/netty/bundles/netty-3.2.5.Final.jar:/home/levantuan/.ivy2/cache/com.twitter/util-collection/jars/util-collection-1.12.1.jar:/home/levantuan/.ivy2/cache/com.google.guava/guava/jars/guava-r09.jar:/home/levantuan/.ivy2/cache/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar:/home/levantuan/.ivy2/cache/com.twitter/finagle-http/jars/finagle-http-1.9.4.jar:/home/levantuan/.ivy2/cache/com.twitter/util-codec/jars/util-codec-1.12.1.jar:/home/levantuan/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.5.jar:/home/levantuan/.ivy2/cache/com.twitter/util-logging/jars/util-logging-1.12.1.jar:/home/levantuan/.ivy2/cache/commons-lang/commons-lang/jars/commons-lang-2.6.jar:/home/levantuan/.ivy2/cache/org.codehaus.jackson/jackson-core-asl/jars/jackson-core-asl-1.8.1.jar:/home/levantuan/.ivy2/cache/org.codehaus.jackson/jackson-mapper-asl/jars/jackson-mapper-asl-1.8.1.jar:/home/levantuan/.ivy2/cache/com.codahale/jerkson_2.8.1/jars/jerkson_2.8.1-0.1.4.jar:/home/levantuan/.ivy2/cache/com.thoughtworks.paranamer/paranamer/jars/paranamer-2.3.jar:/home/levantuan/.ivy2/cache/com.mongodb.casbah/casbah-query_2.8.1/jars/casbah-query_2.8.1-2.1.5.0.jar:/home/levantuan/.ivy2/cache/com.mongodb.casbah/casbah-commons_2.8.1/jars/casbah-commons_2.8.1-2.1.5.0.jar:/home/levantuan/.ivy2/cache/org.scala-tools.time/time_2.8.0/jars/time_2.8.0-0.2.jar:/home/levantuan/.ivy2/cache/joda-time/joda-time/jars/joda-time-1.6.jar:/home/levantuan/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-2.5.3.jar:/home/levantuan/.ivy2/cache/org.scalaj/scalaj-collection_2.8.0/jars/scalaj-collection_2.8.0-1.0.jar:/home/levantuan/.ivy2/cache/com.mongodb.casbah/casbah-core_2.8.1/jars/casbah-core_2.8.1-2.1.5.0.jar:/home/levantuan/.ivy2/cache/com.mongodb.casbah/casbah-gridfs_2.8.1/jars/casbah-gridfs_2.8.1-2.1.5.0.jar:/home/levantuan/.ivy2/cache/org.slf4j/slf4j-simple/jars/slf4j-simple-1.6.3.jar:/home/levantuan/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.6.3.jar:/home/levantuan/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-0.9.30.jar:/home/levantuan/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.1.2.jar:/home/levantuan/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.1.2.jar:/home/levantuan/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/levantuan/workspace/Demo_Finagle/src/main/scala/com/twitter/finagle/example/echo/EchoExample.scala[0m
+[0m[[0mdebug[0m] [0m	Invalidated direct: Set()[0m
+[0m[[0mdebug[0m] [0mIncrementally invalidated: Set()[0m
