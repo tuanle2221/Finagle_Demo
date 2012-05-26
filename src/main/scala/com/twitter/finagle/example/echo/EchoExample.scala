@@ -46,7 +46,7 @@ object _Client {
 		println()
 	} onFailure { error =>
 		println("--------------------------")
-		println("|....Connection faile....|")
+		println("|....Connection failure....|")
 		println("--------------------------")
 		//error.printStackTrace()
 	} ensure {
