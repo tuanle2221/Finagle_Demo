@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
+[0m[[0minfo[0m] [0m:: delivering :: org.jcheng.finagle#scala-example_2.8.1;1.0.1 :: 1.0.1 :: release :: Tue May 29 16:35:55 ICT 2012[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Tue May 29 16:35:55 ICT 2012 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/levantuan/workspace/Client/target/scala-2.8.1/ivy-1.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (103ms)[0m

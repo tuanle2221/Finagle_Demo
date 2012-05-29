@@ -1,0 +1,27 @@
+eclipse create-src
+run
+compile
+run
+eclipse create-src
+run
+compile
+run
+compile
+run
+compile
+run
+2
+run
+eclipse create-src
+run
+run]
+run
+compile
+run
+compile
+publish
+reload
+test
+compile
+run
+publish
